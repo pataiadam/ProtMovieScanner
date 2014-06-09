@@ -6,6 +6,8 @@ import java.net.InetAddress;
 import java.util.Calendar;
 import java.util.HashMap;
 
+import jsp.model.Film;
+
 public class NetworkScanner {
 	private static Calendar lastref = null;
 	public static HashMap<String, Film> films = new HashMap<>();

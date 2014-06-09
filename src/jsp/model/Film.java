@@ -1,4 +1,4 @@
-package jsp.controller;
+package jsp.model;
 
 public class Film {
 
